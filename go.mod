@@ -1,4 +1,4 @@
-module gitlab.com/group-nacdlow/official-plugins/test-plugin
+module github.com/Nacdlow/light-mode-plugin
 
 go 1.13
 
